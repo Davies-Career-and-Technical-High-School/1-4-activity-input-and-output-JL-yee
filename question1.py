@@ -1,0 +1,1 @@
+print = (" A lightning flash: \n between the forest \n trees \n I have seen water.\t -Shiki")
